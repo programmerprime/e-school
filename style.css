@@ -84,3 +84,13 @@ a.activelink {
     border: none;
     background: white;
 }
+
+#testimonial {
+    margin-bottom: 100px;
+}
+
+#footer {
+    background-color: black;
+    color: white;
+    padding: 20px 40px;
+}
