@@ -1,0 +1,86 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.header {
+    background: #f0fff0;
+    height: 450px;
+}
+
+.nav-container {
+    margin-bottom: 30px;
+}
+
+.get-started-button {
+    border-radius: 30px;
+    font-size: 17px;
+    padding: 10px 20px;
+}
+
+.logo-icon {
+    width: 200px;
+}
+
+.illustration {
+    width: 85%;
+}
+
+a.activelink {
+    background: forestgreen;
+    padding: 5px 10px;
+    border-radius: 20px;
+}
+
+.nav-item {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+
+
+.survey {
+    width: 80px;
+    height: 80px;
+}
+
+.box {
+    margin-top: 80px;
+    margin-bottom: 100px;
+}
+
+.box-column {
+    background: #f0fff0;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    border-radius: 20px;
+}
+
+.box-column:hover {
+    box-shadow: 5px 5px 20px lightgray;
+    background: white;
+}
+
+.card {
+    border: none;
+    border-radius: 20px;
+    box-shadow: 5px 5px 20px lightgray;
+}
+
+#courses {
+    margin-bottom: 100px;
+}
+
+.buy-button {
+    padding: 7px 20px;
+    border-radius: 30px;
+}
+
+.card-footer {
+    border: none;
+    background: white;
+}
